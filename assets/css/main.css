@@ -2,4 +2,5 @@ body{
     background-color: rgb(129, 210, 206);
     color: rgb(204, 127, 225);
     flex: auto;
+    width: auto;
 }
